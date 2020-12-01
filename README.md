@@ -1,9 +1,5 @@
-## sbt project compiled with Dotty
+# [Advent of Code 2020](https://adventofcode.com/2020) with Dotty/Scala 3
 
-### Usage
+Run days with:
 
-This is a normal sbt project, you can compile code with `sbt compile` and run it
-with `sbt run`, `sbt console` will start a Dotty REPL.
-
-For more information on the sbt-dotty plugin, see the
-[dotty-example-project](https://github.com/lampepfl/dotty-example-project/blob/master/README.md).
+    sbtn runMain org.athmer.aoc2020.day1.day1
